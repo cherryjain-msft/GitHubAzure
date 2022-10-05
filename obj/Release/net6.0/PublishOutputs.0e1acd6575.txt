@@ -1,0 +1,7 @@
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstzureWebApp.exe
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstzureWebApp.dll
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstzureWebApp.deps.json
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstzureWebApp.runtimeconfig.json
+C:\Users\cherryjain\source\repos\MyFirstzureWebApp\MyFirstzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstzureWebApp.pdb
